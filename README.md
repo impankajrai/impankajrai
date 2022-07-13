@@ -1,4 +1,4 @@
-Hi 👋 My name is Pankaj Kumar Rai
+Hi 👋 My Name is Pankaj Kumar Rai
 =================================
 
 MERN Stack Developer
@@ -8,7 +8,7 @@ I am Pankaj Kumar Rai. I am a Full Stack Web Developer. I have skill on JavaScri
 
 * 🌍  I'm based in Madhya Pradesh, India
 * 🖥️  See my portfolio at [Click Here](http://#)
-* ✉️  You can contact me at [emailpankajrai@gmail.com](mailto:emailpankajrai@gmail.com)
+* ✉️  You can contact me at [email.pankajrai@gmail.com](mailto:email.pankajrai@gmail.com)
 * 🧠  I'm learning MERN Stack Development
 * 🤝  I'm open to collaborating on Any Projects
 
