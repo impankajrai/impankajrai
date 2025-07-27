@@ -9,7 +9,7 @@ I am Pankaj Kumar Rai. I am a Full Stack Web Developer. I have skill on JavaScri
 * 🌍  I'm based in Madhya Pradesh, India
 * 🖥️  See my portfolio at [Click Here](http://#)
 * ✉️  You can contact me at [email.pankajrai@gmail.com](mailto:email.pankajrai@gmail.com)
-* 🧠  I'm learning MERN Stack Development
+* 🧠  I'm Sr. Software Engineer working with multiple technologies like C#,.Net,MS-SQL,T-SQL,Node,Javascript,React JS etc
 * 🤝  I'm open to collaborating on Any Projects
 
 ### Skills
